@@ -1,5 +1,5 @@
 # SQL<hr>
-## I have written the Mysql Commands in Python bcz Ican explain and show the results better but the commands are the same which we use in DBMS(MySQL specifically).
+## I have written the Mysql Commands in Python bcz I can explain and show the results better
 Databases, Tables,Views,Joins, Triggers, Select queries, Subqueries, Clauses, Normalization
 
 ### Queriers in SQL 
